@@ -25,7 +25,7 @@ About Ekranı, adından da anlaşılacağı üzere uygulama hakkında bir takım
 ![aboutScreen](https://user-images.githubusercontent.com/44782947/93664595-e4363a00-fa78-11ea-8416-f099b639c503.jpeg)
 
 
-## RevieeDetails-pt1
+## ReviewDetails-pt1
 Burada GameZone ekranında listelenen oyunların spesifik detayları mevcut. Bu detay oyundan oyuna değişmektedir.
 Oyunların rating detayına göre bir png seçilip ona uygun olarak rating kısmı gösterilmektedir. Bu oyunun kalbimde yeri çok ayrı olduğu için rating değeri olarak 5 girmiştim
 ve buna uygun olarak rating değerinde 5 adet kalp bulunan bir png gösterilmekte.
